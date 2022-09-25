@@ -9,6 +9,7 @@ More information: https://www.theodinproject.com/lessons/foundations-recipe
 - user accounts
 - add, edit, delete recipes
 - option to tag recipes
+- option to toggle between metric and imperial units for ingredient amounts
 - auto-scale ingredient amounts (up or down)
 - option to sort and categorise ingredients list
 - estimate nutrition facts for each recipe (using API)
